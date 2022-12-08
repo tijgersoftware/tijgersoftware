@@ -47,6 +47,6 @@ I'm an full-stack developer and content architect building my version of the dig
 #
 
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 Tijgersoftware's Coding Journey</h3></summary>
    I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself flutter development with a dream to build my own company, but that soon got overshadowed by my desire to excel in Node. A desire that landed me a full-stack software engineering job. I eventually ended up quitting my software engineering job due to crypto crash June 2022.  But there's something that's always bothered me about my journey - abandoning my dream of building my own company to pursue the safe route, a job. Now I've taken the leap away from that safety net into this uncomfortable, unexplored world that it being a freelance self employed engineer.
 

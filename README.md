@@ -5,6 +5,11 @@
 I'm an full-stack developer and content architect building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. From ideation and planning, all the way to finalizing the code with artistic touches. I deploy that content on my websites and showcase the work on my youtube channel "[ForrestKnight][youtube]".
 
 
+
+<p align="center">
+<a href="https://www.linkedin.com/in/gilles-willy" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Naomi%20Carrigan-purple?logo=linkedin&logoColor=blue&color=blue" /></a>
+</p>
+
 ---
 
 ### 🧰 Languages and Tools

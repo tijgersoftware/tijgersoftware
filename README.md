@@ -27,7 +27,7 @@ I'm an full-stack developer and content architect building my version of the dig
 <br />
 
 <br />
-
+[
 #
 
 ### 📺 Latest YouTube Videos
@@ -41,7 +41,7 @@ I'm an full-stack developer and content architect building my version of the dig
 [![5 Coding Projects (from beginner to advanced)](https://ytcards.demolab.com/?id=n2B-FClr5rA&title=5+Coding+Projects+%28from+beginner+to+advanced%29&lang=en&timestamp=1663079409&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1090 "5 Coding Projects (from beginner to advanced)")](https://www.youtube.com/watch?v=n2B-FClr5rA)
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)](url)
 
 #
 

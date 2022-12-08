@@ -7,7 +7,7 @@ I'm an full-stack developer and content architect building my version of the dig
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/gilles-willy" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Gilles%20Carrigan-purple?logo=linkedin&logoColor=blue&color=blue" /></a>
+<a href="https://www.linkedin.com/in/gilles-willy" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Gilles%20Willy-purple?logo=linkedin&logoColor=blue&color=blue" /></a>
 </p>
 
 ---

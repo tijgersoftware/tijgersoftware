@@ -7,9 +7,8 @@ I'm an full-stack developer and content architect building my version of the dig
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/gilles-willy" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Gilles%20Willy-purple?logo=linkedin&logoColor=blue&color=blue" /></a>
-<a href="http://www.tijgersoftware.com" target="_blank"><img src="https://img.shields.io/static/v1?label=software&message=portfolio&color=blue" /></a>
- <a href="http://www.tijgersoftware.com:8080" target="_blank"><img src="https://img.shields.io/static/v1?label=my&message=story&color=blue" /></a>
+<a href="https://www.linkedin.com/in/gilles-hamelink" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Gilles%20Willy-purple?logo=linkedin&logoColor=blue&color=blue" /></a>
+<a href="[http://www.tijgersoftware.com](http://https://tijgersoftware.com)" target="_blank"><img src="https://img.shields.io/static/v1?label=software&message=portfolio&color=blue" /></a>
 
 </p>
 
